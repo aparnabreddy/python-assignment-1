@@ -10,4 +10,3 @@ del movies[1]
 print(movies)
 movies.clear()
 print(movies)
-
